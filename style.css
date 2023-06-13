@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+}
+.atas table {
+  width: 80%;
+}
+.atas td{
+  background-color: #FF8C00;
+}
+.atas img{
+  border-radius: 50%;
+  height: 120px;
+  float:left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.tengah table{
+  width: 80%;
+}
+.tengah .hp{
+  width: 130px;
+  height: 450;
+  background-color: #696A2F;
+}
+.tengah .hp a{
+  color: white;
+}
+.tengah .font1{
+  font-size: 30px;
+}
+.tengah img{
+  margin-top: 5px;
+  width: 100px;
+}
+.mar {
+  margin-left: 10px;
+}
+.stock img{
+  height: 400px;
+  width: 300px;
+}
